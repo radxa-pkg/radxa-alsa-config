@@ -1,0 +1,18 @@
+Source: radxa-alsa-config
+Maintainer: "Radxa Computer Co., Ltd" <dev@radxa.com>
+Section: misc
+Priority: optional
+Standards-Version: 4.6.0
+Build-Depends: debhelper (>=12~),
+               devscripts,
+               lintian,
+
+Package: radxa-alsa-config
+Architecture: all
+Section: misc
+Priority: optional
+Depends: rockchip-alsa-config,
+         ${misc:Depends},
+Description: Radxa specific ALSA configs
+ This package provides Radxa specific ALSA
+ config files.
