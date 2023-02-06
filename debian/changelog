@@ -1,3 +1,9 @@
+radxa-alsa-config (0.2) stable; urgency=medium
+
+  * Rename rockchip-dp0 to rockchip-hdmi2
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Mon, 06 Feb 2023 10:31:04 +0800
+
 radxa-alsa-config (0.1) stable; urgency=medium
 
   * Initial release
