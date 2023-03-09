@@ -1,3 +1,9 @@
+radxa-alsa-config (0.3) stable; urgency=medium
+
+  * Add rockchip-es8316
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Thu, 09 Mar 2023 13:49:15 +0800
+
 radxa-alsa-config (0.2) stable; urgency=medium
 
   * Rename rockchip-dp0 to rockchip-hdmi2
