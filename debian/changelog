@@ -1,3 +1,14 @@
+radxa-alsa-config (0.4.0) stable; urgency=medium
+
+  [ dependabot[bot] ]
+  * Bump actions/checkout from 3 to 4
+
+  [ ZHANG Yuntian ]
+  * Remove distribution restriction
+  * Add CI for automatic release
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Tue, 27 Feb 2024 14:58:53 +0800
+
 radxa-alsa-config (0.3) stable; urgency=medium
 
   * Add rockchip-es8316
