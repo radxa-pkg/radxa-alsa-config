@@ -1,3 +1,16 @@
+radxa-alsa-config (0.4.1) jammy; urgency=medium
+
+  [ dependabot[bot] ]
+  * Bump actions/download-artifact from 3 to 4
+  * Bump actions/upload-artifact from 3 to 4
+  * Bump softprops/action-gh-release from 1 to 2
+
+  [ Chen Jiali ]
+  * chore: add CODEOWNERS
+  * fix: es8316: add missing Mic devices
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Fri, 13 Sep 2024 10:40:13 +0000
+
 radxa-alsa-config (0.4.0) stable; urgency=medium
 
   [ dependabot[bot] ]
