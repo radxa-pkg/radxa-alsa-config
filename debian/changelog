@@ -1,3 +1,10 @@
+radxa-alsa-config (0.4.2) noble; urgency=medium
+
+  [ Chen Jiali ]
+  * feat: add rockchip_hdmiin config
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Mon, 20 Jan 2025 02:28:19 +0000
+
 radxa-alsa-config (0.4.1) jammy; urgency=medium
 
   [ dependabot[bot] ]
