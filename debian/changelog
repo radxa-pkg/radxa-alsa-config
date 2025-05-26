@@ -1,3 +1,13 @@
+radxa-alsa-config (0.4.3) noble; urgency=medium
+
+  [ Stephen Chen ]
+  * feat: add rockchip-es8388 config
+
+  [ Jiali Chen ]
+  * fix: remove some config always in rockchip-alsa-config
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Mon, 26 May 2025 03:38:07 +0000
+
 radxa-alsa-config (0.4.2) noble; urgency=medium
 
   [ Chen Jiali ]
