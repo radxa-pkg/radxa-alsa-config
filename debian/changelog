@@ -1,3 +1,14 @@
+radxa-alsa-config (0.4.4) noble; urgency=medium
+
+  [ Jiali Chen ]
+  * feat: add allwinner sound card configs
+
+  [ dependabot[bot] ]
+  * chore(deps): bump actions/download-artifact from 4 to 5
+  * chore(deps): bump actions/checkout from 4 to 5
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Fri, 15 Aug 2025 11:27:03 +0000
+
 radxa-alsa-config (0.4.3) noble; urgency=medium
 
   [ Stephen Chen ]
