@@ -1,3 +1,10 @@
+radxa-alsa-config (0.4.6) noble; urgency=medium
+
+  [ Feng Zhang ]
+  * feat: add Allwinner edp sound card configs
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Tue, 09 Dec 2025 06:32:30 +0000
+
 radxa-alsa-config (0.4.5) noble; urgency=medium
 
   [ Guoguo ]
