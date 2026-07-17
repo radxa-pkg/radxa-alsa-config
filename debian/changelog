@@ -1,3 +1,10 @@
+radxa-alsa-config (0.4.10) noble; urgency=medium
+
+  [ ZHANG Yuntian ]
+  * feat: add MX98357A config for CIX platform
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Fri, 17 Jul 2026 06:47:54 +0000
+
 radxa-alsa-config (0.4.9) noble; urgency=medium
 
   [ Feng Zhang ]
